@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/running-sum-of-1d-array/description/
+// 
+
 package Question.Array.Easy.Running_Sum;
 
 import java.util.*;
