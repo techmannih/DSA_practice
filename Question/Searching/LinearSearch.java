@@ -1,5 +1,5 @@
 package Question.Searching;
-
+// https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1108601612/
 public class LinearSearch {
  public static int main(String[] args) {
      int [] nums= {1,22,3,444,5,222222};
