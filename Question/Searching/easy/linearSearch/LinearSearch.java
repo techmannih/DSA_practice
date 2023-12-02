@@ -1,4 +1,4 @@
-package Question.Searching;
+package Question.Searching.easy.linearSearch;
 // https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1108601612/
 public class LinearSearch {
  public static int main(String[] args) {
