@@ -1,5 +1,6 @@
 package Question.Searching.medium_hard.peakIndexMountain;
 // https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1108601612/
+// https://leetcode.com/problems/peak-index-in-a-mountain-array/description/-----------------https://leetcode.com/problems/find-peak-element/description/
 public class PeakIndexMountain {
  public static int main(String[] args) {
     int []arr={1,2,3,4,5,6,5,4,2,1};
